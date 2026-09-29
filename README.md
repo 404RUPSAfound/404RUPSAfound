@@ -1,17 +1,38 @@
-## Hi there 👋
-## its my github
+# Hi, I'm Rupsa 👋
 
-<!--
-**404RUPSAfound/404RUPSAfound** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer focused on Full-Stack Development, AI, and Data.
 
-Here are some ideas to get you started:
+I enjoy turning ideas into practical, scalable products — from
+frontend experiences to backend systems and AI-powered applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Build
+
+• Full-Stack Web Applications
+• AI-powered Products
+• Backend & API Systems
+• Data-driven Applications
+
+## Tech Stack
+
+Java • Python • JavaScript • SQL
+HTML • CSS • React • Node.js
+Git • GitHub • Figma
+
+## Featured Projects
+
+🌱 Kynapse Kids
+🛡️ LifeShield AI
+🌦️ ATMOS
+🚨 Neurix
+
+## Experience
+
+Full Stack Developer Intern — GoDigitify
+
+## Currently Learning
+
+DSA • Backend Development • React • Data Analytics
+
+---
+
+Building with intent. Shipping with confidence.
